@@ -26,7 +26,7 @@ const Hero = () => {
             MY WORKS
           </button>
           <button className="bg-[#f8f5ec] text-black px-6 py-2 rounded-full text-sm font-medium hover:bg-[#e7e4d8] transition">
-            LET'S TALK
+            LET&apos;S TALK
           </button>
         </div>
       </section>
